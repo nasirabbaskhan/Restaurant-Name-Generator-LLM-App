@@ -5,8 +5,7 @@ colorFrom: yellow
 colorTo: gray
 sdk: streamlit
 sdk_version: 1.39.0
-app_file: main.py
+app_file: app.py
 pinned: false
-
 
 """"
